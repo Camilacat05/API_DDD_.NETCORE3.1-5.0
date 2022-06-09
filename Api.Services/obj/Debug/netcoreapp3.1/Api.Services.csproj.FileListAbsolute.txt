@@ -1,0 +1,10 @@
+C:\Users\cctie\source\repos\Api\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.deps.json
+C:\Users\cctie\source\repos\Api\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.dll
+C:\Users\cctie\source\repos\Api\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.pdb
+C:\Users\cctie\source\repos\Api\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.csproj.AssemblyReference.cache
+C:\Users\cctie\source\repos\Api\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cctie\source\repos\Api\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.AssemblyInfoInputs.cache
+C:\Users\cctie\source\repos\Api\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.AssemblyInfo.cs
+C:\Users\cctie\source\repos\Api\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\cctie\source\repos\Api\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.dll
+C:\Users\cctie\source\repos\Api\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.pdb

@@ -1,0 +1,10 @@
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.deps.json
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.dll
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.CrossCutting.pdb
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfo.cs
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.dll
+C:\Users\cctie\source\repos\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.pdb
