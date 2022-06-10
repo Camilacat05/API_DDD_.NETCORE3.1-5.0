@@ -4,4 +4,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\Api.Domain\Api.Domain.csproj" />
+		<ProjectReference Include="..\Api.Data\Api.Data.csproj" />
+		<ProjectReference Include="..\Api.CrossCutting\Api.CrossCutting.csproj" />
+	</ItemGroup>
 </Project>
+<!--  a service é a camada que fica as regras de negócio, e decide se os dados vão para o banco ou não, e a camada de Aplicação se comunica com a camada service e a service que se comunica com a (data,crooscutting e Domain) -->
+
+<!-- primeiro no dominho dentro de interface, vai ser criada a interface com o contrato dos metodos que vai ser codificado em services-->
+
+<!-- fluxo (Api.Domain - Interfaces - Services - pasta com nome da Entidade (User)--> 
+
+
